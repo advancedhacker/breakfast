@@ -33,7 +33,6 @@ bf = input("Enter a day :")
 
 if bf == "mon":
  print(CRED +"CHAPATHI" + CEND)
-   
 if bf == "tue":
  print(CGREEN2  +"DOSA" + CEND)
 
