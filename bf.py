@@ -48,6 +48,5 @@ if bf == "fri":
 
 if bf == "sat":
  print(CYELLOW2 + "UPMA"+ CEND)
-
 else:
  print("day typed wrongly")
