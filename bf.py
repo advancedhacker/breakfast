@@ -44,7 +44,7 @@ if bf == "thur":
  print(CVIOLETBG2 +"IDLY"+ CEND)
 
 if bf == "fri":
-print(CYELLOW2 + "UTHAMPA"+ CEND)
+ print(CYELLOW2 + "UTHAMPA"+ CEND)
 
 if bf == "sat":
  print(CYELLOW2 + "UPMA"+ CEND)
